@@ -49,7 +49,9 @@
 .padded-l-0 { padding-left: 0; }
 .padded-r-0 { padding-right: 0; }
 
-.copyright{ padding: 0;}
+.copyright{ 
+    padding: 0;
+}
 
 /* Margin Utility Classes */ 
 
