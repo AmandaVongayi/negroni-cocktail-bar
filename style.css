@@ -93,6 +93,10 @@
     font-weight: regular;
 }
 
+.menu p{
+    font-size: 2rem;
+}
+
 body {
     font-family: 'Playfair Display', serif; /* ---------> Add your font here */ 
 }
@@ -198,3 +202,5 @@ p:last-child {
 .portrait-tall { padding-bottom: 175%; }
 .portrait      { padding-bottom: 125%; }
 .square        { padding-bottom: 100%; }
+
+/* mobile responsiveness */
